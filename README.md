@@ -103,7 +103,7 @@ http://localhost:3000/api/vote
     x-forwarded-for 192.168.0.1
 ```
 
-# Test Cases
+# Test cases
 
 This section lists the current manual test cases that we would like to automate.
 
