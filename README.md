@@ -33,7 +33,7 @@ cd roadmap
 docker run --rm -p 6379:6379 --name roadmap-redis -d redis
 ```
 
-## Start the Next.js App
+## Start the next.js App
 
 ```
 npm run dev
